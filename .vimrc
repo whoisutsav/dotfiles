@@ -17,3 +17,7 @@ let g:ctrlp_cmd = 'CtrlP'
 autocmd FileType javascript set sw=4
 autocmd FileType javascript set ts=4
 autocmd FileType javascript set sts=4
+
+syntax enable
+set background=dark
+colorscheme solarized
